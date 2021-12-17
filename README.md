@@ -1,16 +1,11 @@
-### Hi there 👋
+# Isaelson Gutembergh Trajano Gomes 
+# Dados pessoais
+* Data de nascimento: 11/12/2001
+* Endereço: Rua Regina Correia de Souza - Cajazeiras - PB
+* Telefone: (83) 99849-3803
+# Formação acadêmica 
+💻 Cursando Análise e desenvolvimento de sistemas
 
-<!--
-**isaelsonifpb/isaelsonifpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [linkedin](https://www.linkedin.com/in/isaelson-gutembergh-40a3861a6/)  
+* [instagram](https://www.instagram.com/isaelson_g/)
+* isaelsongutembergh@gmail.com
